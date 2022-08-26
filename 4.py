@@ -10,7 +10,7 @@ def aloneFunc (list1):
                 list1[i]=list1[i-1]
     return list1
 
-list5=[1, 1, 2, 3, ]
+list5=[1, 1, 2, 3, 5, 6]
 print(aloneFunc(list5))
 
 print(aloneFunc)
